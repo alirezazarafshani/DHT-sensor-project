@@ -1,5 +1,5 @@
 # DHT-sensor-project
-DHT sensor's in real life usage
+DHT sensor's in real life usage.
 
 **************************************** THIS CODE WORKED IN ARDUINO UNO**********************************
 
